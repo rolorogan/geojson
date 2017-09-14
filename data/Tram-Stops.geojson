@@ -1,0 +1,2246 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-09-13T13:52:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20984528",
+        "name": "Handsworth, Booth Street",
+        "railway": "tram_stop",
+        "source": "NPE",
+        "wikidata": "Q5647668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9523164,
+          52.5021186
+        ]
+      },
+      "id": "node/20984528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/94268553",
+        "name": "Old Market Square",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.150109,
+          52.9530647
+        ]
+      },
+      "id": "node/94268553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/170401667",
+        "local_ref": "NET13",
+        "name": "The Forest",
+        "naptan:AtcoCode": "3390NET13",
+        "naptan:Bearing": "S",
+        "naptan:CommonName": "The Forest Tram Stop",
+        "naptan:Indicator": "Stop NET13",
+        "naptan:Landmark": "Forest Park& Ride Site",
+        "naptan:NaptanCode": "ntmamtja",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Noel Street",
+        "naptan:verified": "no",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "naptan_import",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1669992,
+          52.9651616
+        ]
+      },
+      "id": "node/170401667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/170401985",
+        "local_ref": "NET19",
+        "name": "Wilkinson Street",
+        "naptan:AtcoCode": "3390NET19",
+        "naptan:Bearing": "W",
+        "naptan:CommonName": "Wilkinson Street Tram Stop",
+        "naptan:Indicator": "Stop NET19",
+        "naptan:Landmark": "Wilkinson Street",
+        "naptan:NaptanCode": "ntmadmag",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Wilkinson Street",
+        "naptan:verified": "no",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "naptan_import",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1786516,
+          52.9720764
+        ]
+      },
+      "id": "node/170401985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/175225799",
+        "local_ref": "NET16",
+        "name": "Shipstone Street",
+        "naptan:AtcoCode": "3390NET16",
+        "naptan:Bearing": "NW",
+        "naptan:CommonName": "Shipstone Street Tram Stop",
+        "naptan:Indicator": "Stop NET16",
+        "naptan:Landmark": "Shipstone Street",
+        "naptan:NaptanCode": "ntmamtjm",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Shipstone Street",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1737525,
+          52.9715704
+        ]
+      },
+      "id": "node/175225799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/175234575",
+        "local_ref": "NET07",
+        "name": "Royal Centre",
+        "naptan:AtcoCode": "3390NET07",
+        "naptan:Bearing": "E",
+        "naptan:CommonName": "Royal Centre Tram Stop",
+        "naptan:Indicator": "Stop NET07",
+        "naptan:Landmark": "Royal Centre",
+        "naptan:NaptanCode": "ntmamtgd",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Wollaton Street",
+        "naptan:verified": "no",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "naptan_import",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1516745,
+          52.9550165
+        ]
+      },
+      "id": "node/175234575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/175461249",
+        "alt_name": "Phoenix Park Tram Stop",
+        "local_ref": "NET31",
+        "name": "Phoenix Park Tram Stop",
+        "naptan:AtcoCode": "3390NET31",
+        "naptan:Bearing": "E",
+        "naptan:CommonName": "Phoenix Park Tram Stop",
+        "naptan:Indicator": "Stop NET31",
+        "naptan:Landmark": "Phoenix Park",
+        "naptan:NaptanCode": "ntmamtma",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Millennium Way East",
+        "naptan:verified": "no",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "naptan_import",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2066447,
+          52.9888303
+        ]
+      },
+      "id": "node/175461249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/175464622",
+        "alt_name": "Highbury Vale Branch Tram Stop",
+        "local_ref": "NET28",
+        "name": "Highbury Vale B",
+        "naptan:AtcoCode": "3390NET28",
+        "naptan:Bearing": "SW",
+        "naptan:CommonName": "Highbury Vale Branch Tram Stop",
+        "naptan:Indicator": "Stop NET28",
+        "naptan:Landmark": "Highbury Vale Branch Off",
+        "naptan:NaptanCode": "ntmadmdm",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Highbury Vale",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import;GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1903809,
+          52.9895176
+        ]
+      },
+      "id": "node/175464622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/175464832",
+        "alt_name": "Highbury Vale Mainline Tram Stop",
+        "local_ref": "NET26",
+        "name": "Highbury Vale A",
+        "naptan:AtcoCode": "3390NET26",
+        "naptan:Bearing": "SE",
+        "naptan:CommonName": "Highbury Vale Mainline Tram Stop",
+        "naptan:Indicator": "Stop NET26",
+        "naptan:Landmark": "Highbury Vale",
+        "naptan:NaptanCode": "ntmadmdg",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Highbury Vale",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import;GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1894527,
+          52.9896516
+        ]
+      },
+      "id": "node/175464832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/181310675",
+        "name": "High School",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1612768,
+          52.9621779
+        ]
+      },
+      "id": "node/181310675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/187104817",
+        "name": "Jewellery Quarter",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9142628,
+          52.4899309
+        ]
+      },
+      "id": "node/187104817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/190408328",
+        "local_ref": "NET18",
+        "name": "Radford Road",
+        "naptan:AtcoCode": "3390NET18",
+        "naptan:Bearing": "W",
+        "naptan:CommonName": "Radford Road Tram Stop",
+        "naptan:Indicator": "Stop NET18",
+        "naptan:Landmark": "Belton Street",
+        "naptan:NaptanCode": "ntmamtjt",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Radford Road",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1739096,
+          52.9697533
+        ]
+      },
+      "id": "node/190408328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246561591",
+        "name": "Saint Paul's",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "wikidata": "Q7595184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9047842,
+          52.487234
+        ]
+      },
+      "id": "node/246561591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247763046",
+        "layer": "1",
+        "level": "0",
+        "name": "The Royal",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1169798,
+          52.5810458
+        ]
+      },
+      "id": "node/247763046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249663901",
+        "name": "Bradley Lane",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0576788,
+          52.5559816
+        ]
+      },
+      "id": "node/249663901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251064972",
+        "name": "Bilston Central",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0750521,
+          52.5656904
+        ]
+      },
+      "id": "node/251064972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252774559",
+        "local_ref": "NET33",
+        "name": "Bulwell",
+        "naptan:AtcoCode": "3390NET33",
+        "naptan:Bearing": "SW",
+        "naptan:CommonName": "Bulwell Tram Stop",
+        "naptan:Indicator": "Stop NET33",
+        "naptan:Landmark": "Bulwell Station",
+        "naptan:NaptanCode": "ntmamtmg",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Station Road",
+        "naptan:verified": "no",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "naptan_import;memory",
+        "tram": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1956066,
+          52.9989775
+        ]
+      },
+      "id": "node/252774559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260114060",
+        "name": "The Crescent",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0808452,
+          52.5679643
+        ]
+      },
+      "id": "node/260114060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280156260",
+        "name": "Wednesbury Parkway",
+        "railway": "tram_stop",
+        "wikidata": "Q7979219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0320236,
+          52.549704
+        ]
+      },
+      "id": "node/280156260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417262",
+        "name": "Wednesbury, Great Western Street",
+        "railway": "tram_stop",
+        "wikidata": "Q7979214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0256171,
+          52.548932
+        ]
+      },
+      "id": "node/280417262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417266",
+        "name": "Black Lake",
+        "railway": "tram_stop",
+        "wikidata": "Q4921147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0111588,
+          52.5310175
+        ]
+      },
+      "id": "node/280417266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417267",
+        "name": "Dudley Street, Guns Village",
+        "railway": "tram_stop",
+        "wikidata": "Q5311990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0085363,
+          52.5251673
+        ]
+      },
+      "id": "node/280417267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417268",
+        "name": "Dartmouth Street",
+        "railway": "tram_stop",
+        "wikidata": "Q5225733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0045196,
+          52.5204882
+        ]
+      },
+      "id": "node/280417268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417269",
+        "name": "Lodge Road, West Bromwich Town Hall",
+        "railway": "tram_stop",
+        "wikidata": "Q6666320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9998654,
+          52.5186777
+        ]
+      },
+      "id": "node/280417269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417271",
+        "name": "West Bromwich Central",
+        "railway": "tram_stop",
+        "wikidata": "Q7984581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.994705,
+          52.5165409
+        ]
+      },
+      "id": "node/280417271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417273",
+        "name": "Trinity Way",
+        "railway": "tram_stop",
+        "wikidata": "Q16901974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9882932,
+          52.5119414
+        ]
+      },
+      "id": "node/280417273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417275",
+        "name": "The Hawthorns",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9650843,
+          52.5058387
+        ]
+      },
+      "id": "node/280417275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417276",
+        "name": "Kenrick Park",
+        "railway": "tram_stop",
+        "wikidata": "Q6391345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9825255,
+          52.5087162
+        ]
+      },
+      "id": "node/280417276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417278",
+        "name": "Winson Green, Outer Circle",
+        "railway": "tram_stop",
+        "wikidata": "Q8025986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.939106,
+          52.498945
+        ]
+      },
+      "id": "node/280417278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417281",
+        "name": "Soho, Benson Road",
+        "railway": "tram_stop",
+        "wikidata": "Q15278384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9310021,
+          52.4970105
+        ]
+      },
+      "id": "node/280417281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280417283",
+        "name": "Priestfield",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0979676,
+          52.571952
+        ]
+      },
+      "id": "node/280417283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280981512",
+        "local_ref": "NET17",
+        "name": "Hyson Green Market",
+        "naptan:AtcoCode": "3390NET17",
+        "naptan:Bearing": "W",
+        "naptan:CommonName": "Hyson Green Market Tram Stop",
+        "naptan:Indicator": "Stop NET17",
+        "naptan:Landmark": "St Paul's Avenue",
+        "naptan:NaptanCode": "ntmamtjp",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Radford Road",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1710055,
+          52.9664135
+        ]
+      },
+      "id": "node/280981512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280981745",
+        "local_ref": "NET14",
+        "name": "Noel Street",
+        "naptan:AtcoCode": "3390NET14",
+        "naptan:Bearing": "S",
+        "naptan:CommonName": "Noel Street Tram Stop",
+        "naptan:Indicator": "Stop NET14",
+        "naptan:Landmark": "Noel Street",
+        "naptan:NaptanCode": "ntmamtjd",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Noel Street",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1686535,
+          52.9673035
+        ]
+      },
+      "id": "node/280981745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/371578126",
+        "local_ref": "NET08",
+        "name": "Nottingham Trent University",
+        "naptan:AtcoCode": "3390NET08",
+        "naptan:Bearing": "SE",
+        "naptan:CommonName": "Nottm Trent University Tram Stop",
+        "naptan:Indicator": "Stop NET08",
+        "naptan:Landmark": "Nottingham Trent University",
+        "naptan:NaptanCode": "ntmamtgj",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Goldsmith Street",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1550819,
+          52.9579156
+        ]
+      },
+      "id": "node/371578126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/454568433",
+        "local_ref": "NET35",
+        "name": "Bulwell Forest",
+        "naptan:AtcoCode": "3390NET35",
+        "naptan:Bearing": "NW",
+        "naptan:CommonName": "Bulwell Forest Tram Stop",
+        "naptan:Indicator": "Stop NET35",
+        "naptan:Landmark": "Bestwood Road",
+        "naptan:NaptanCode": "ntmamtmp",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Bestwood Road",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import;GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1902985,
+          53.0057739
+        ]
+      },
+      "id": "node/454568433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377119",
+        "local_ref": "NET06",
+        "name": "Royal Centre",
+        "naptan:AtcoCode": "3390NET06",
+        "naptan:Bearing": "N",
+        "naptan:CommonName": "Royal Centre Tram Stop",
+        "naptan:Indicator": "Stop NET06",
+        "naptan:Landmark": "Royal Centre",
+        "naptan:NaptanCode": "ntmajwma",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Wollaton Street",
+        "naptan:verified": "no",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "naptan_import",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.151977,
+          52.9551719
+        ]
+      },
+      "id": "node/502377119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377133",
+        "local_ref": "NET09",
+        "name": "Nottingham Trent University",
+        "naptan:AtcoCode": "3390NET09",
+        "naptan:Bearing": "NW",
+        "naptan:CommonName": "Nottm Trent University Tram Stop",
+        "naptan:Indicator": "Stop NET09",
+        "naptan:Landmark": "Nottingham Trent University",
+        "naptan:NaptanCode": "ntmamtgm",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Goldsmith Street",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1547084,
+          52.9577861
+        ]
+      },
+      "id": "node/502377133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377179",
+        "local_ref": "NET15",
+        "name": "Beaconsfield Street",
+        "naptan:AtcoCode": "3390NET15",
+        "naptan:Bearing": "N",
+        "naptan:CommonName": "Beaconsfield Street Tram Stop",
+        "naptan:Indicator": "Stop NET15",
+        "naptan:Landmark": "Beaconsfield Street",
+        "naptan:NaptanCode": "ntmamtjg",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Noel Street",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1703897,
+          52.9701645
+        ]
+      },
+      "id": "node/502377179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377217",
+        "local_ref": "NET21",
+        "name": "Basford",
+        "naptan:AtcoCode": "3390NET21",
+        "naptan:Bearing": "NW",
+        "naptan:CommonName": "Basford Tram Stop",
+        "naptan:Indicator": "Stop NET21",
+        "naptan:Landmark": "Vernon Road",
+        "naptan:NaptanCode": "ntmadmam",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Vernon Road",
+        "naptan:verified": "yes",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1784168,
+          52.9816485
+        ]
+      },
+      "id": "node/502377217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377225",
+        "local_ref": "NET22",
+        "name": "Basford",
+        "naptan:AtcoCode": "3390NET22",
+        "naptan:Bearing": "SE",
+        "naptan:CommonName": "Basford Tram Stop",
+        "naptan:Indicator": "Stop NET22",
+        "naptan:Landmark": "Vernon Road",
+        "naptan:NaptanCode": "ntmadmap",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Vernon Road",
+        "naptan:verified": "yes",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1782966,
+          52.9816743
+        ]
+      },
+      "id": "node/502377225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377232",
+        "local_ref": "NET23",
+        "name": "David Lane",
+        "naptan:AtcoCode": "3390NET23",
+        "naptan:Bearing": "NW",
+        "naptan:CommonName": "David Lane Tram Stop",
+        "naptan:Indicator": "Stop NET23",
+        "naptan:Landmark": "David Lane",
+        "naptan:NaptanCode": "ntmadmat",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Vernon Road",
+        "naptan:verified": "yes",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1821384,
+          52.984918
+        ]
+      },
+      "id": "node/502377232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377238",
+        "local_ref": "NET24",
+        "name": "David Lane",
+        "naptan:AtcoCode": "3390NET24",
+        "naptan:Bearing": "SE",
+        "naptan:CommonName": "David Lane Tram Stop",
+        "naptan:Indicator": "Stop NET24",
+        "naptan:Landmark": "David Lane",
+        "naptan:NaptanCode": "ntmadmaw",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Vernon Road",
+        "naptan:verified": "yes",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1820011,
+          52.9849697
+        ]
+      },
+      "id": "node/502377238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377324",
+        "local_ref": "NET29",
+        "name": "Cinderhill",
+        "naptan:AtcoCode": "3390NET29",
+        "naptan:Bearing": "E",
+        "naptan:CommonName": "Cinderhill Tram Stop",
+        "naptan:Indicator": "Stop NET29",
+        "naptan:Landmark": "Cinderhill",
+        "naptan:NaptanCode": "ntmadmdp",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Cinderhill Road",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2007004,
+          52.9889959
+        ]
+      },
+      "id": "node/502377324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377330",
+        "local_ref": "NET30",
+        "name": "Cinderhill",
+        "naptan:AtcoCode": "3390NET30",
+        "naptan:Bearing": "NW",
+        "naptan:CommonName": "Cinderhill Tram Stop",
+        "naptan:Indicator": "Stop NET30",
+        "naptan:Landmark": "Cinderhill",
+        "naptan:NaptanCode": "ntmamtjw",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Cinderhill Road",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2006403,
+          52.9889908
+        ]
+      },
+      "id": "node/502377330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377345",
+        "local_ref": "NET32",
+        "name": "Bulwell",
+        "naptan:AtcoCode": "3390NET32",
+        "naptan:Bearing": "S",
+        "naptan:CommonName": "Bulwell Tram Stop",
+        "naptan:Indicator": "Stop NET32",
+        "naptan:Landmark": "Bulwell Station",
+        "naptan:NaptanCode": "ntmamtmd",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Station Road",
+        "naptan:verified": "no",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "source": "naptan_import"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1955192,
+          52.99948
+        ]
+      },
+      "id": "node/502377345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502377358",
+        "local_ref": "NET34",
+        "name": "Bulwell Forest",
+        "naptan:AtcoCode": "3390NET34",
+        "naptan:Bearing": "S",
+        "naptan:CommonName": "Bulwell Forest Tram Stop",
+        "naptan:Indicator": "Stop NET34",
+        "naptan:Landmark": "Bestwood Road",
+        "naptan:NaptanCode": "ntmamtmj",
+        "naptan:PlusbusZoneRef": "NTNG",
+        "naptan:Street": "Bestwood Road",
+        "naptan:verified": "no",
+        "railway": "tram_stop",
+        "source": "naptan_import;GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1902282,
+          53.0060508
+        ]
+      },
+      "id": "node/502377358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/595803868",
+        "alt_name": "Highbury Vale Mainline Tram Stop",
+        "name": "Highbury Vale",
+        "railway": "tram_stop",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1896977,
+          52.9897666
+        ]
+      },
+      "id": "node/595803868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1343327096",
+        "NFC:BEARING": "0",
+        "NFC:UID": "043ACF294B2580",
+        "name": "Wolverhampton St Georges",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1245244,
+          52.5840062
+        ]
+      },
+      "id": "node/1343327096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1602748966",
+        "name": "Lace Market",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1455722,
+          52.9527556
+        ]
+      },
+      "id": "node/1602748966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1602748967",
+        "name": "Lace Market",
+        "public_transport": "stop_position",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1454426,
+          52.9529856
+        ]
+      },
+      "id": "node/1602748967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1638476658",
+        "amenity": "clock",
+        "display": "analog",
+        "faces": "2",
+        "railway": "tram_stop",
+        "source": "bing",
+        "support": "pole",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0751943,
+          52.5193119
+        ]
+      },
+      "id": "node/1638476658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164406945",
+        "name": "Clifton South",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1930898,
+          52.8964106
+        ]
+      },
+      "id": "node/2164406945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164439520",
+        "name": "Ruddington Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1583503,
+          52.9146714
+        ]
+      },
+      "id": "node/2164439520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164439911",
+        "name": "Wilford Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1561541,
+          52.9261097
+        ]
+      },
+      "id": "node/2164439911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164443818",
+        "name": "Wilford Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.156153,
+          52.925782
+        ]
+      },
+      "id": "node/2164443818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164449286",
+        "name": "Wilford Village",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1554787,
+          52.9359686
+        ]
+      },
+      "id": "node/2164449286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164516206",
+        "name": "Holy Trinity",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1812657,
+          52.8969757
+        ]
+      },
+      "id": "node/2164516206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164516207",
+        "name": "Holy Trinity",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1812981,
+          52.8970041
+        ]
+      },
+      "id": "node/2164516207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164516208",
+        "name": "Clifton Centre",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1770159,
+          52.9037211
+        ]
+      },
+      "id": "node/2164516208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164516209",
+        "name": "Clifton Centre",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1769608,
+          52.9036041
+        ]
+      },
+      "id": "node/2164516209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164516211",
+        "name": "Rivergreen",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1746848,
+          52.907056
+        ]
+      },
+      "id": "node/2164516211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164516212",
+        "name": "Southchurch Drive North",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1704866,
+          52.9106592
+        ]
+      },
+      "id": "node/2164516212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164516312",
+        "name": "Southchurch Drive North",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1705302,
+          52.9106936
+        ]
+      },
+      "id": "node/2164516312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171051954",
+        "layer": "3",
+        "name": "Nottingham Station",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data",
+        "start_date": "2015-07-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.145636,
+          52.9467734
+        ]
+      },
+      "id": "node/2171051954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171051957",
+        "layer": "3",
+        "name": "Nottingham Station",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data",
+        "start_date": "2015-07-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1456475,
+          52.9471045
+        ]
+      },
+      "id": "node/2171051957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171228402",
+        "name": "Gregory Street",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1768339,
+          52.9438951
+        ]
+      },
+      "id": "node/2171228402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171228667",
+        "name": "Queens Medical Centre",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1835134,
+          52.9427068
+        ]
+      },
+      "id": "node/2171228667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171229016",
+        "name": "Queens Medical Centre",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1838415,
+          52.9424207
+        ]
+      },
+      "id": "node/2171229016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172093925",
+        "name": "Chilwell Road",
+        "naptan:NaptanCode": "ntsjmatj",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2203779,
+          52.922641
+        ]
+      },
+      "id": "node/2172093925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125160",
+        "name": "Toton Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2622951,
+          52.9184143
+        ]
+      },
+      "id": "node/2172125160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125162",
+        "name": "Toton Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2623041,
+          52.9184525
+        ]
+      },
+      "id": "node/2172125162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125163",
+        "name": "Inham Road",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2517278,
+          52.9195215
+        ]
+      },
+      "id": "node/2172125163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125164",
+        "name": "Inham Road",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2517358,
+          52.9195595
+        ]
+      },
+      "id": "node/2172125164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125165",
+        "name": "Eskdale Drive",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2430866,
+          52.9203098
+        ]
+      },
+      "id": "node/2172125165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125166",
+        "name": "Eskdale Drive",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2431039,
+          52.9203479
+        ]
+      },
+      "id": "node/2172125166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125167",
+        "name": "Bramcote Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2363429,
+          52.9215465
+        ]
+      },
+      "id": "node/2172125167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125168",
+        "name": "Bramcote Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2363139,
+          52.9215124
+        ]
+      },
+      "id": "node/2172125168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125169",
+        "name": "Cator Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2312295,
+          52.9226095
+        ]
+      },
+      "id": "node/2172125169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125170",
+        "name": "Cator Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2312379,
+          52.9226473
+        ]
+      },
+      "id": "node/2172125170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125171",
+        "name": "High Road - Central College",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2233009,
+          52.921247
+        ]
+      },
+      "id": "node/2172125171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125172",
+        "name": "High Road - Central College",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2233332,
+          52.9212731
+        ]
+      },
+      "id": "node/2172125172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125173",
+        "name": "Chilwell Road",
+        "naptan:NaptanCode": "ntsjmatm",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2202987,
+          52.9225994
+        ]
+      },
+      "id": "node/2172125173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125174",
+        "name": "Beeston Centre",
+        "naptan:NaptanCode": "ntsjmapt",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2146974,
+          52.9251387
+        ]
+      },
+      "id": "node/2172125174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125175",
+        "name": "Beeston Centre",
+        "naptan:NaptanCode": "ntsjmapm",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2149751,
+          52.9256099
+        ]
+      },
+      "id": "node/2172125175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125176",
+        "name": "Middle Street",
+        "naptan:NaptanCode": "ntsjmawp",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2090295,
+          52.9278206
+        ]
+      },
+      "id": "node/2172125176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125177",
+        "name": "Middle Street",
+        "naptan:NaptanCode": "ntsjmawm",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.209066,
+          52.9278881
+        ]
+      },
+      "id": "node/2172125177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125178",
+        "name": "University Boulevard",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2024129,
+          52.9321823
+        ]
+      },
+      "id": "node/2172125178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125179",
+        "name": "University Boulevard",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.20204,
+          52.932217
+        ]
+      },
+      "id": "node/2172125179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125181",
+        "name": "University of Nottingham",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1883309,
+          52.9372209
+        ]
+      },
+      "id": "node/2172125181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125182",
+        "name": "University of Nottingham",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1883596,
+          52.9372486
+        ]
+      },
+      "id": "node/2172125182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125184",
+        "name": "Gregory Street",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1768334,
+          52.9438364
+        ]
+      },
+      "id": "node/2172125184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125185",
+        "name": "NG2",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1652624,
+          52.9418244
+        ]
+      },
+      "id": "node/2172125185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125186",
+        "name": "NG2",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1652611,
+          52.9418638
+        ]
+      },
+      "id": "node/2172125186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125187",
+        "name": "Meadows Way West",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1568576,
+          52.9433357
+        ]
+      },
+      "id": "node/2172125187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172125188",
+        "name": "Meadows Way West",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1564792,
+          52.9434425
+        ]
+      },
+      "id": "node/2172125188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2237934535",
+        "name": "Summerwood Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1882323,
+          52.896944
+        ]
+      },
+      "id": "node/2237934535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2416641041",
+        "name": "Ruddington Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1582957,
+          52.9146692
+        ]
+      },
+      "id": "node/2416641041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2416645527",
+        "name": "Clifton South",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1931266,
+          52.8964354
+        ]
+      },
+      "id": "node/2416645527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2731786423",
+        "name": "Loxdale",
+        "public_transport": "stop_position",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.065885,
+          52.5600783
+        ]
+      },
+      "id": "node/2731786423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2880817759",
+        "name": "Rivergreen",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1747984,
+          52.9067551
+        ]
+      },
+      "id": "node/2880817759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885169060",
+        "name": "Wilford Village",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1558749,
+          52.9354647
+        ]
+      },
+      "id": "node/2885169060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885180842",
+        "construction": "tram_stop",
+        "name": "Meadows Embankment",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1538679,
+          52.9388441
+        ]
+      },
+      "id": "node/2885180842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885180843",
+        "name": "Queens Walk",
+        "note": "No apostophry",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1504998,
+          52.9426003
+        ]
+      },
+      "id": "node/2885180843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885180844",
+        "name": "Queens Walk",
+        "railway": "tram_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1504291,
+          52.9427479
+        ]
+      },
+      "id": "node/2885180844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885180845",
+        "name": "Meadows Embankment",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1537469,
+          52.939026
+        ]
+      },
+      "id": "node/2885180845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020896680",
+        "name": "Compton Acres",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1575121,
+          52.9188448
+        ]
+      },
+      "id": "node/3020896680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3020896681",
+        "name": "Compton Acres",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1574806,
+          52.9193266
+        ]
+      },
+      "id": "node/3020896681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3712874623",
+        "name": "Summerwood Lane",
+        "operator": "Nottingham Express Transit",
+        "railway": "tram_stop",
+        "source": "Nottingham City Council Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1878106,
+          52.8969546
+        ]
+      },
+      "id": "node/3712874623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4216185181",
+        "name": "Bull Street",
+        "railway": "tram_stop",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8964738,
+          52.4820128
+        ]
+      },
+      "id": "node/4216185181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4216185182",
+        "name": "Corporation Street",
+        "railway": "tram_stop",
+        "source": "survey",
+        "wikidata": "Q5172527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8970338,
+          52.4799005
+        ]
+      },
+      "id": "node/4216185182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4216185183",
+        "name": "Grand Central",
+        "railway": "tram_stop",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8992383,
+          52.4786144
+        ]
+      },
+      "id": "node/4216185183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4216185184",
+        "level": "1",
+        "name": "St Chads",
+        "railway": "tram_stop",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9004118,
+          52.4846902
+        ]
+      },
+      "id": "node/4216185184"
+    }
+  ]
+}

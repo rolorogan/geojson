@@ -1,0 +1,1947 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "PC5",
+        "Interchange": "PC"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.907694,
+          52.478763
+        ],
+        "type": "Point"
+      },
+      "id": "01b5816f56589665173d4e9db55687a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "Name": "MSI5",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892377,
+          52.48
+        ],
+        "type": "Point"
+      },
+      "id": "01f10005ee93d54a7a5dae12eb494493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "Name": "BSI3",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.894079,
+          52.482266
+        ],
+        "type": "Point"
+      },
+      "id": "0d551e3f514831b1c62a1689b6afdad7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "5A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898436,
+          52.47789
+        ],
+        "type": "Point"
+      },
+      "id": "0f9a854b15bb929156623654db1d6faf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "MK4",
+        "Interchange": "MK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893725,
+          52.475754
+        ],
+        "type": "Point"
+      },
+      "id": "12c694c187bd67adb24a53a93595cdc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "8A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898578,
+          52.477513
+        ],
+        "type": "Point"
+      },
+      "id": "156d41f308170b82ba9a351f38e8dece"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "Name": "MS13",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891383,
+          52.480671
+        ],
+        "type": "Point"
+      },
+      "id": "21dcf952a2fc79173592075edc0c412b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Name": "BS8",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893385,
+          52.48191
+        ],
+        "type": "Point"
+      },
+      "id": "229ea3c0868bb7441771c3984b97f83d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "8B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899806,
+          52.477657
+        ],
+        "type": "Point"
+      },
+      "id": "25538c5ef2d82f6175642a3a8d219977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "Name": "MS15",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892026,
+          52.479928
+        ],
+        "type": "Point"
+      },
+      "id": "25a690c1dd51965828bd69c671ffd900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "4A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898455,
+          52.477892
+        ],
+        "type": "Point"
+      },
+      "id": "26373360af5fb2ce3131d111b07a9cae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "Name": "MS16",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892251,
+          52.479659
+        ],
+        "type": "Point"
+      },
+      "id": "2672b8468cd3957f93a767e56476e061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "SH4",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898455,
+          52.482413
+        ],
+        "type": "Point"
+      },
+      "id": "2a689dab0037f801e55a51c926a41e99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "BS6",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.894943,
+          52.481767
+        ],
+        "type": "Point"
+      },
+      "id": "2b0296e5afd27798cf5299ad5a5ec5a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "Name": "BSI2",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893303,
+          52.481749
+        ],
+        "type": "Point"
+      },
+      "id": "2c9239d01b9003f83baf4e69d0e2966d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mode": "Metro",
+        "Name": "Corporation Street",
+        "Type": "Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.897476,
+          52.479676
+        ],
+        "type": "Point"
+      },
+      "id": "2eb2c9396399aab2007f9c52ec16bc36"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "Name": "MS12",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891221,
+          52.480838
+        ],
+        "type": "Point"
+      },
+      "id": "308869de3cf51c7a87c7578b7f19e55d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "BS4",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.89535,
+          52.48097
+        ],
+        "type": "Point"
+      },
+      "id": "30bfd1e446d542d3ed735ebede8287cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Name": "SH7",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895213,
+          52.482562
+        ],
+        "type": "Point"
+      },
+      "id": "315d4d0510c30d584ad968758c15468d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "Name": "MKI",
+        "Interchange": "MK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893168,
+          52.476094
+        ],
+        "type": "Point"
+      },
+      "id": "326410466a43c96f0f0c037229fdeb5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "12A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898629,
+          52.477131
+        ],
+        "type": "Point"
+      },
+      "id": "337b68bf28fe043eae56cde81977bfe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "Name": "MSI1",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892765,
+          52.478962
+        ],
+        "type": "Point"
+      },
+      "id": "33b32616c44897a81588e5ca021e7ad6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "Name": "BS13",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893182,
+          52.48173
+        ],
+        "type": "Point"
+      },
+      "id": "34d13600de9e8a616693d43452a204ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "BS2",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.89471,
+          52.480407
+        ],
+        "type": "Point"
+      },
+      "id": "37d978e714f897019e850bae8cee4ef9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "MK6",
+        "Interchange": "MK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892966,
+          52.476728
+        ],
+        "type": "Point"
+      },
+      "id": "382461d682aff5be58888e57a68b5a8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "BS5",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895135,
+          52.481592
+        ],
+        "type": "Point"
+      },
+      "id": "396cf94c7aaf8db6c902506c3822f87a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "MS4",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893187,
+          52.479143
+        ],
+        "type": "Point"
+      },
+      "id": "3bea9caa3daf76c9b15cd325f6f57443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "11B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899852,
+          52.477429
+        ],
+        "type": "Point"
+      },
+      "id": "3de48452d355b27ac352db3863503777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899568,
+          52.478302
+        ],
+        "type": "Point"
+      },
+      "id": "3e2bc01a14f9bb4c341899576c87ea04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "NS4",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896249,
+          52.47753
+        ],
+        "type": "Point"
+      },
+      "id": "42a4f4e05a0450cf3f28c21d03755db2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Name": "PC7",
+        "Interchange": "PC"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.908161,
+          52.478866
+        ],
+        "type": "Point"
+      },
+      "id": "439f9fa836c5faf41fbd5a732ac77bed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "SQ1",
+        "Interchange": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898375,
+          52.484325
+        ],
+        "type": "Point"
+      },
+      "id": "4645ff297e2983b30c92fa66d64b2b2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "BS",
+        "Interchange": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892602,
+          52.482329
+        ],
+        "type": "Point"
+      },
+      "id": "48e3bccf376f074f24f1dd0bac83ce84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mode": "Metro",
+        "Name": "Jewellery Quarter",
+        "Type": "Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.914281,
+          52.489877
+        ],
+        "type": "Point"
+      },
+      "id": "4cf23dac9455220886491fb6636a5630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "SQ2",
+        "Interchange": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898104,
+          52.484116
+        ],
+        "type": "Point"
+      },
+      "id": "4e26a3843e1394fc4f30ad72737f7c2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "4C",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899671,
+          52.47802
+        ],
+        "type": "Point"
+      },
+      "id": "513b8144153e1fc9e057ec2c421ec7c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "Name": "NS13",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898223,
+          52.476948
+        ],
+        "type": "Point"
+      },
+      "id": "52b2a7ab18ae683526e35c77c6758dca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "2B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899614,
+          52.47818
+        ],
+        "type": "Point"
+      },
+      "id": "530a774eb289e3650b6bbb6149cd7fa9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Name": "NS8",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896978,
+          52.476185
+        ],
+        "type": "Point"
+      },
+      "id": "5416c67b4a0fb7754959a5720c9c81b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "12B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899919,
+          52.477268
+        ],
+        "type": "Point"
+      },
+      "id": "56c1e07fc066d23a90bb85cea2ea1ed5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "4B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899649,
+          52.478018
+        ],
+        "type": "Point"
+      },
+      "id": "58e74e0ce98fe991edf46c6bede796bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Name": "NS7",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896822,
+          52.47629
+        ],
+        "type": "Point"
+      },
+      "id": "5f35284b67a72c9808cd74b2725b842c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "Name": "MK",
+        "Interchange": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892513,
+          52.475712
+        ],
+        "type": "Point"
+      },
+      "id": "5fbcd9e989e6a176898efb6a24d881bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "MK1",
+        "Interchange": "MK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893745,
+          52.475884
+        ],
+        "type": "Point"
+      },
+      "id": "62fdc68129a4b53d5d4538b7cedc3575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899444,
+          52.483594
+        ],
+        "type": "Point"
+      },
+      "id": "646f19cf828c0ff65e04ce8f382ada89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "7A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898502,
+          52.47771
+        ],
+        "type": "Point"
+      },
+      "id": "6603c527c3647f86ae211f0b2161fc3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "3B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899597,
+          52.478178
+        ],
+        "type": "Point"
+      },
+      "id": "6ae036ef63b8dfa4f571ccfce1e5a6e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "7B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899716,
+          52.47784
+        ],
+        "type": "Point"
+      },
+      "id": "6d6d9710ae6aafda7399949164e44d22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "SH6",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895591,
+          52.482784
+        ],
+        "type": "Point"
+      },
+      "id": "6f242c42efe7a902bb6a007d364028ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "MK2",
+        "Interchange": "MK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893378,
+          52.47599
+        ],
+        "type": "Point"
+      },
+      "id": "717af5fa520cdc5d23a6a74d828a6bfd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "Name": "BS10",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891859,
+          52.481632
+        ],
+        "type": "Point"
+      },
+      "id": "71dd92200c8e39cecc51f486add81d8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "10B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899879,
+          52.477434
+        ],
+        "type": "Point"
+      },
+      "id": "734780837dc4264c6430dfc764387609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "2A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898424,
+          52.478046
+        ],
+        "type": "Point"
+      },
+      "id": "757e37b6dddb3aa0927cbba258172f18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mode": "Metro",
+        "Name": "Soho Benson Hill",
+        "Type": "Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.930948,
+          52.497041
+        ],
+        "type": "Point"
+      },
+      "id": "77c487c82bc2ac332b25408ddb4571a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "SH6",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898724,
+          52.48263
+        ],
+        "type": "Point"
+      },
+      "id": "7913448b07586ba3bf545da3d58b106c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Name": "SH9",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896409,
+          52.483736
+        ],
+        "type": "Point"
+      },
+      "id": "79728dc527bc3e11ea846d6eeb7a6ac9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Name": "MS8",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892386,
+          52.480044
+        ],
+        "type": "Point"
+      },
+      "id": "798f4f1b8dbd208a4fbfe67df9d6a1da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "MS1",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892377,
+          52.478252
+        ],
+        "type": "Point"
+      },
+      "id": "7a57330f8e4390150b81d33ffc525e90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Name": "MK7",
+        "Interchange": "MK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895495,
+          52.47643
+        ],
+        "type": "Point"
+      },
+      "id": "7c85d2293c553ea264b01157800917b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "NS6",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896582,
+          52.476567
+        ],
+        "type": "Point"
+      },
+      "id": "7d401f6a6222529691e86f034239902d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Name": "BS7",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893669,
+          52.481974
+        ],
+        "type": "Point"
+      },
+      "id": "7d60b61ec1c0053e9726668d3f557a06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "BS3",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895104,
+          52.480745
+        ],
+        "type": "Point"
+      },
+      "id": "7fdc86bebb580215fbce22c5b380d6c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "MS3",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893336,
+          52.478975
+        ],
+        "type": "Point"
+      },
+      "id": "81520f4f2ce7f9f6b8e550d5fc13fac6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mode": "Metro",
+        "Name": "St Pauls",
+        "Type": "Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.904754,
+          52.487205
+        ],
+        "type": "Point"
+      },
+      "id": "8175dec29cb5c1d700e50848a95fb978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "Name": "NS12",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.89845,
+          52.476883
+        ],
+        "type": "Point"
+      },
+      "id": "81edbafaaa7b0ac5e31e6b1c645d3ecf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "Name": "SHI",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898786,
+          52.481798
+        ],
+        "type": "Point"
+      },
+      "id": "84030b8ca0f3247de8747b0292bd8c18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "NS2",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896093,
+          52.477892
+        ],
+        "type": "Point"
+      },
+      "id": "85000926623e71989a29e6b7552403fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "Name": "MS10",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891486,
+          52.481058
+        ],
+        "type": "Point"
+      },
+      "id": "8bed512cfda6085cc4c04e4f4892fb9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "Name": "BS16",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.894605,
+          52.480053
+        ],
+        "type": "Point"
+      },
+      "id": "8da3b196f9b3087699097d68e1d45840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Name": "MS9",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891632,
+          52.480885
+        ],
+        "type": "Point"
+      },
+      "id": "910797fd62abe6b32b3c0550ba7aff03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "Name": "BS11",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891939,
+          52.481479
+        ],
+        "type": "Point"
+      },
+      "id": "9134ac9015c1a109314883cff7976a0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "Name": "MSI4",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892377,
+          52.479957
+        ],
+        "type": "Point"
+      },
+      "id": "939670cf364df3179f76b72df210690f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "10A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898629,
+          52.477286
+        ],
+        "type": "Point"
+      },
+      "id": "9464dab8b86244e4944aa9e0d13c4dbd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898389,
+          52.478168
+        ],
+        "type": "Point"
+      },
+      "id": "957c4614b4815a28df919200f333e78e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "5B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899653,
+          52.478
+        ],
+        "type": "Point"
+      },
+      "id": "96d479987c90f92b56247f55705fe39c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "SH3",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899505,
+          52.481438
+        ],
+        "type": "Point"
+      },
+      "id": "97405787f2461bb9dce9a990867bb799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "PC",
+        "Interchange": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.906102,
+          52.478787
+        ],
+        "type": "Point"
+      },
+      "id": "9c90c0c0898f383af3c373712c4a92ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "MS",
+        "Interchange": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891472,
+          52.479403
+        ],
+        "type": "Point"
+      },
+      "id": "9edba989759a93e41192f05d9938fcc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "NS5",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898073,
+          52.475921
+        ],
+        "type": "Point"
+      },
+      "id": "9f8ce79732404498fe08e4ca5459b09a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "9B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899781,
+          52.477654
+        ],
+        "type": "Point"
+      },
+      "id": "a33f0b07bbbad9db5e25a9d96cbbe1a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "SQ3",
+        "Interchange": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.89787,
+          52.483927
+        ],
+        "type": "Point"
+      },
+      "id": "a3dcd3943c224bbe29bea8c90ff912f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "Name": "MSI2",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893246,
+          52.479058
+        ],
+        "type": "Point"
+      },
+      "id": "a4a502554a1a23d34c046ae0874f4033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "3A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.8984,
+          52.478043
+        ],
+        "type": "Point"
+      },
+      "id": "a9b5a3d45c2520f0f9eef496a853d90c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "PC6",
+        "Interchange": "PC"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.907959,
+          52.478696
+        ],
+        "type": "Point"
+      },
+      "id": "a9c197340778d8a15cd868a20a8743fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "Name": "BS15",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893676,
+          52.481821
+        ],
+        "type": "Point"
+      },
+      "id": "ab41e6da4834b480d6b9658340e5725a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "Name": "NS11",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898779,
+          52.476789
+        ],
+        "type": "Point"
+      },
+      "id": "abc3098e9289b2cbd838d381279f2de6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "Name": "MS14",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.89161,
+          52.480424
+        ],
+        "type": "Point"
+      },
+      "id": "ac8fb1c699b63072ae80549999d5f34f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "Name": "MS17",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.894634,
+          52.479839
+        ],
+        "type": "Point"
+      },
+      "id": "ad60028826e3a9d0ddbadeb12bb010c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mode": "Metro",
+        "Name": "St Chads",
+        "Type": "Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899956,
+          52.484538
+        ],
+        "type": "Point"
+      },
+      "id": "b11063a330480d0af61e12d79db54e52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "MS6",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893805,
+          52.479557
+        ],
+        "type": "Point"
+      },
+      "id": "b7a93fabbc6944866165137ba23d18bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "9A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898558,
+          52.477511
+        ],
+        "type": "Point"
+      },
+      "id": "b7bd6b8e20c6d3936cba2575e282fa12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "11A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898604,
+          52.477283
+        ],
+        "type": "Point"
+      },
+      "id": "b8636b140a1bc0a3c701d68a8617794d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "Name": "NSI",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896409,
+          52.477629
+        ],
+        "type": "Point"
+      },
+      "id": "b876ca736bb814cc9093d46c07c41a44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "Name": "BS14",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893418,
+          52.481768
+        ],
+        "type": "Point"
+      },
+      "id": "baebb642929f65bf024f454b5e43f03c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "PC4",
+        "Interchange": "PC"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.904659,
+          52.478563
+        ],
+        "type": "Point"
+      },
+      "id": "bffdc319784c344d90b4c923fb1dd30d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "SH5",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895562,
+          52.482544
+        ],
+        "type": "Point"
+      },
+      "id": "c0464677d69d9044969da2b97dedb4ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mode": "Metro",
+        "Name": "Bull Street",
+        "Type": "Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896608,
+          52.482127
+        ],
+        "type": "Point"
+      },
+      "id": "c21e373b2fad75dcdf9ff3b9c4c09cdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Name": "BS9",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892446,
+          52.48173
+        ],
+        "type": "Point"
+      },
+      "id": "c3b7ab0547bb9d942e74198960216b1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "NS1",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896334,
+          52.47774
+        ],
+        "type": "Point"
+      },
+      "id": "c6b86dd68f6d3f87c875de0102eb1131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Name": "SQ4",
+        "Interchange": "SQ"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898063,
+          52.483831
+        ],
+        "type": "Point"
+      },
+      "id": "c8486d4e34a31f1aa32be46c0e3114b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "Name": "BSI1",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895481,
+          52.48104
+        ],
+        "type": "Point"
+      },
+      "id": "c963cb077ab374ddbbd4c2bdb6c990c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "Name": "SQ6",
+        "Interchange": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898568,
+          52.484272
+        ],
+        "type": "Point"
+      },
+      "id": "cc93b31bb3186a805ebf11cf8e42bf30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "Name": "NS9",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.897163,
+          52.476061
+        ],
+        "type": "Point"
+      },
+      "id": "cd728483104fdd22bb64f63a6b84949b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mode": "Metro",
+        "Name": "Grand Central",
+        "Type": "Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898936,
+          52.478557
+        ],
+        "type": "Point"
+      },
+      "id": "cde67be81442060bcf909f34e979fd48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "Name": "SH8",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896249,
+          52.483606
+        ],
+        "type": "Point"
+      },
+      "id": "d2e6f3f8b718a1a0a11169040975cd88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "6A",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898518,
+          52.477713
+        ],
+        "type": "Point"
+      },
+      "id": "d491aa350902a052a1859df5f98ac33a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "NS3",
+        "Interchange": "NS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.896047,
+          52.477705
+        ],
+        "type": "Point"
+      },
+      "id": "d4badae74cff1d8d41f2b5d3e420b34a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "SQ5",
+        "Interchange": "None"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898281,
+          52.483996
+        ],
+        "type": "Point"
+      },
+      "id": "df9f45cf8a7b76b1e674695ddcc7168a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "SH1",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.898533,
+          52.481903
+        ],
+        "type": "Point"
+      },
+      "id": "e1b1e07f6565f8686c0671b300f2dedb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "Name": "SH10",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895871,
+          52.482933
+        ],
+        "type": "Point"
+      },
+      "id": "e331e431f8a6896e9c7ab3e89bad936c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "Name": "MS11",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.891034,
+          52.481036
+        ],
+        "type": "Point"
+      },
+      "id": "e604a119920213f9d19fff822d5697a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "Name": "BS12",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.8923,
+          52.481561
+        ],
+        "type": "Point"
+      },
+      "id": "e910c2068bd673638a28256243bfdf9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "Name": "MSI3",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893667,
+          52.479524
+        ],
+        "type": "Point"
+      },
+      "id": "ebb8be3df03be7224ce9b6eb1f70d9f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "MS2",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892767,
+          52.478345
+        ],
+        "type": "Point"
+      },
+      "id": "f0414c8d501e38646d8b39dc45e775dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "Name": "MS5",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893502,
+          52.479486
+        ],
+        "type": "Point"
+      },
+      "id": "f0629459763c93b6b35d67d098554fa6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "Name": "MS7",
+        "Interchange": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.894239,
+          52.479673
+        ],
+        "type": "Point"
+      },
+      "id": "f3a1b02edabec57d0524af913c27cc63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Name": "SH2",
+        "Interchange": "SH"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899022,
+          52.481694
+        ],
+        "type": "Point"
+      },
+      "id": "f57e51c3ed8ddcb7c00533c984da74e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "Name": "BS18",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892664,
+          52.480451
+        ],
+        "type": "Point"
+      },
+      "id": "f5bcf8b8eeffe40aed40dbfd67513ce9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "Name": "The Rotunda",
+        "Interchange": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.895512,
+          52.478298
+        ],
+        "type": "Point"
+      },
+      "id": "f62c902227a21038a0bfac3443226d30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "Name": "BS17",
+        "Interchange": "BS"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.893431,
+          52.480673
+        ],
+        "type": "Point"
+      },
+      "id": "f74429d6b6605cc113988ffe431df902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Name": "MK3",
+        "Interchange": "MK"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.892942,
+          52.476172
+        ],
+        "type": "Point"
+      },
+      "id": "f915e0fb349702ea024d8e4bcb118925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Name": "NS",
+        "Interchange": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899057,
+          52.477786
+        ],
+        "type": "Point"
+      },
+      "id": "fb8fb64af4a7238d6abe5014d503c420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "6B",
+        "Interchange": "NewStreet"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.899741,
+          52.477843
+        ],
+        "type": "Point"
+      },
+      "id": "fdf447b4968503ffbe2672f291a4e2b1"
+    }
+  ],
+  "type": "FeatureCollection"
+}
