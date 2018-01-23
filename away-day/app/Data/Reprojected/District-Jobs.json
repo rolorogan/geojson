@@ -1,0 +1,144 @@
+{"name":"District Jobs","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-192069.354967256,6882029.86543571]},"properties":{"MSOA11CD":"E02002089","MSOA11NM":"Bickenhill","_sum":"14504","Jobs":14504}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-204737.103138773,6870453.53592434]},"properties":{"MSOA11CD":"E02002109","MSOA11NM":"Dickens Heath","_sum":"3034","Jobs":3034}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-270430.346125311,6806890.59939726]},"properties":{"MSOA11CD":"E02002923","MSOA11NM":"Ledbury","_sum":"3471","Jobs":3471}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-263848.306556789,6921730.65116487]},"properties":{"MSOA11CD":"E02006008","MSOA11NM":"Shifnal","_sum":"1939","Jobs":1939}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-253582.225648298,6915910.83558211]},"properties":{"MSOA11CD":"E02006009","MSOA11NM":"Albrighton","_sum":"2042","Jobs":2042}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-234893.117353891,6931726.11037185]},"properties":{"MSOA11CD":"E02006174","MSOA11NM":"Penkridge","_sum":"3046","Jobs":3046}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-234938.662791104,6917824.19445446]},"properties":{"MSOA11CD":"E02006179","MSOA11NM":"Featherstone","_sum":"3613","Jobs":3613}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-246792.226102863,6883569.49613587]},"properties":{"MSOA11CD":"E02006187","MSOA11NM":"Kinver","_sum":"783","Jobs":783}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-190647.0453892,6901233.68189771]},"properties":{"MSOA11CD":"E02006471","MSOA11NM":"Kingsbury","_sum":"5904","Jobs":5904}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-158467.727550192,6886943.59990809]},"properties":{"MSOA11CD":"E02006488","MSOA11NM":"Bulkington","_sum":"585","Jobs":585}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-198205.562549993,6852966.14259191]},"properties":{"MSOA11CD":"E02006505","MSOA11NM":"Henley","_sum":"2121","Jobs":2121}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-238674.004665352,6876049.20612647]},"properties":{"MSOA11CD":"E02006696","MSOA11NM":"Hagley","_sum":"1394","Jobs":1394}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-218906.382158707,6864049.83048834]},"properties":{"MSOA11CD":"E02006704","MSOA11NM":"Alvechurch","_sum":"3853","Jobs":3853}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-289261.091882195,6855964.13461591]},"properties":{"MSOA11CD":"E02006710","MSOA11NM":"Tenbury","_sum":"1383","Jobs":1383}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-287174.13837142,6784385.52326534]},"properties":{"MSOA11CD":"E02002926","MSOA11NM":"Ross","_sum":"6098","Jobs":6098}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-253798.24735887,6862714.03781213]},"properties":{"MSOA11CD":"E02006780","MSOA11NM":"Stourport","_sum":"4551","Jobs":4551}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-213784.543216089,6923998.975269]},"properties":{"MSOA11CD":"E02006151","MSOA11NM":"Chasetown","_sum":"5845","Jobs":5845}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-203296.183369898,6924697.70194925]},"properties":{"MSOA11CD":"E02006149","MSOA11NM":"Lichfield","_sum":"22997","Jobs":22997}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-187543.171294563,6914064.9510453]},"properties":{"MSOA11CD":"E02006217","MSOA11NM":"Tamworth","_sum":"18583","Jobs":18583}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-163371.759898731,6895315.9009734]},"properties":{"MSOA11CD":"E02006475","MSOA11NM":"Nuneaton","_sum":"21808","Jobs":21808}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-164439.4038731,6886242.43362847]},"properties":{"MSOA11CD":"E02006487","MSOA11NM":"Bedworth","_sum":"7762","Jobs":7762}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-175536.527429191,6851930.45131413]},"properties":{"MSOA11CD":"E02006526","MSOA11NM":"Warwick","_sum":"30856","Jobs":30856}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-209309.737063103,6870242.37689381]},"properties":{"MSOA11CD":"E02006699","MSOA11NM":"Wythall","_sum":"2067","Jobs":2067}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-214946.487187849,6918342.56961832]},"properties":{"MSOA11CD":"E02002110","MSOA11NM":"Brownhills","_sum":"3464","Jobs":3464}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-219564.076981814,6914875.91876238]},"properties":{"MSOA11CD":"E02002112","MSOA11NM":"Pelsall","_sum":"557","Jobs":557}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-224211.18135302,6912936.56044394]},"properties":{"MSOA11CD":"E02002115","MSOA11NM":"Bloxwich","_sum":"2118","Jobs":2118}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-213519.030831309,6910066.90217479]},"properties":{"MSOA11CD":"E02002113","MSOA11NM":"Aldridge","_sum":"13444","Jobs":13444}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-220624.774900002,6906459.71972595]},"properties":{"MSOA11CD":"E02002121","MSOA11NM":"Walsall","_sum":"35076","Jobs":35076}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-209769.853974484,6905246.89465452]},"properties":{"MSOA11CD":"E02002137","MSOA11NM":"Streetly","_sum":"1518","Jobs":1518}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-202964.822217615,6902604.24090547]},"properties":{"MSOA11CD":"E02001827","MSOA11NM":"Sutton Coldfield","_sum":"17799","Jobs":17799}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-198457.30464695,6895871.12835183]},"properties":{"MSOA11CD":"E02001847","MSOA11NM":"Minworth","_sum":"7175","Jobs":7175}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-215212.95242414,6899415.32047831]},"properties":{"MSOA11CD":"E02001845","MSOA11NM":"Great Barr","_sum":"2748","Jobs":2748}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211616.996772247,6894248.57858017]},"properties":{"MSOA11CD":"E02001850","MSOA11NM":"Perry Barr","_sum":"8815","Jobs":8815}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-209755.025119076,6900763.90252448]},"properties":{"MSOA11CD":"E02001848","MSOA11NM":"Kingstanding","_sum":"6568","Jobs":6568}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211075.085201834,6891321.08621606]},"properties":{"MSOA11CD":"E02001875","MSOA11NM":"Aston","_sum":"14139","Jobs":14139}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-216038.288484228,6891893.56109014]},"properties":{"MSOA11CD":"E02001873","MSOA11NM":"Handsworth","_sum":"12210","Jobs":12210}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211367.907251968,6887623.63233492]},"properties":{"MSOA11CD":"E02006895","MSOA11NM":"Birmingham","_sum":"109083","Jobs":109083}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-216471.333031314,6887792.18986246]},"properties":{"MSOA11CD":"E02001886","MSOA11NM":"Ladywood","_sum":"4226","Jobs":4226}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-215131.116528983,6885326.85501867]},"properties":{"MSOA11CD":"E02001905","MSOA11NM":"Edgbaston","_sum":"30362","Jobs":30362}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-218762.234265382,6884614.20847523]},"properties":{"MSOA11CD":"E02001899","MSOA11NM":"Harborne","_sum":"3432","Jobs":3432}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-221474.636779709,6871881.99935069]},"properties":{"MSOA11CD":"E02001955","MSOA11NM":"Longbridge","_sum":"7611","Jobs":7611}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-222295.02391649,6883640.87469109]},"properties":{"MSOA11CD":"E02001928","MSOA11NM":"Quinton","_sum":"3485","Jobs":3485}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-219262.271151434,6875752.31460024]},"properties":{"MSOA11CD":"E02001938","MSOA11NM":"Northfield","_sum":"8005","Jobs":8005}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-216024.209322809,6879880.01611864]},"properties":{"MSOA11CD":"E02001933","MSOA11NM":"Selly Oak","_sum":"7901","Jobs":7901}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-214556.346871376,6874103.16122135]},"properties":{"MSOA11CD":"E02001954","MSOA11NM":"Kings Norton","_sum":"8478","Jobs":8478}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-210159.27076585,6881263.8266748]},"properties":{"MSOA11CD":"E02001919","MSOA11NM":"Moseley","_sum":"3890","Jobs":3890}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-204935.822047077,6874213.87040705]},"properties":{"MSOA11CD":"E02002101","MSOA11NM":"Shirley","_sum":"2378","Jobs":2378}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-210719.56238395,6877927.35578452]},"properties":{"MSOA11CD":"E02001930","MSOA11NM":"Kings Heath","_sum":"4901","Jobs":4901}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-205039.353671287,6878035.07682114]},"properties":{"MSOA11CD":"E02006807","MSOA11NM":"Hall Green","_sum":"2269","Jobs":2269}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-204120.376362018,6880685.04092784]},"properties":{"MSOA11CD":"E02001923","MSOA11NM":"Acocks Green","_sum":"5523","Jobs":5523}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-208281.184420686,6883507.13432796]},"properties":{"MSOA11CD":"E02001896","MSOA11NM":"Sparkbrook","_sum":"13355","Jobs":13355}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-206695.882825769,6886784.32239326]},"properties":{"MSOA11CD":"E02006900","MSOA11NM":"Small Heath","_sum":"9933","Jobs":9933}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-207890.775237904,6891407.43244227]},"properties":{"MSOA11CD":"E02001869","MSOA11NM":"Nechells","_sum":"8684","Jobs":8684}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-197761.248668581,6884548.68154102]},"properties":{"MSOA11CD":"E02001907","MSOA11NM":"Sheldon","_sum":"12713","Jobs":12713}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-201462.048802158,6884986.755368]},"properties":{"MSOA11CD":"E02001915","MSOA11NM":"Yardley","_sum":"19453","Jobs":19453}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-202447.56554545,6889921.8508167]},"properties":{"MSOA11CD":"E02001864","MSOA11NM":"Hodge Hill","_sum":"2824","Jobs":2824}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-196357.514317231,6891284.52109896]},"properties":{"MSOA11CD":"E02001872","MSOA11NM":"Castle Bromwich","_sum":"4269","Jobs":4269}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-193530.611706918,6887385.02776351]},"properties":{"MSOA11CD":"E02002086","MSOA11NM":"Chelmsley Wood","_sum":"2667","Jobs":2667}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-198664.816283743,6880850.58643897]},"properties":{"MSOA11CD":"E02002090","MSOA11NM":"Elmdon","_sum":"16650","Jobs":16650}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-200659.428396505,6879221.54785987]},"properties":{"MSOA11CD":"E02002093","MSOA11NM":"Olton","_sum":"1503","Jobs":1503}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-198618.430336711,6875431.58191999]},"properties":{"MSOA11CD":"E02002095","MSOA11NM":"Solihull","_sum":"29157","Jobs":29157}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-195027.905655691,6868147.56309682]},"properties":{"MSOA11CD":"E02002106","MSOA11NM":"Dorridge and Knowle","_sum":"3291","Jobs":3291}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-183491.407016291,6870895.71815914]},"properties":{"MSOA11CD":"E02002097","MSOA11NM":"Balsall Common","_sum":"4193","Jobs":4193}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-177568.584821859,6872101.87179911]},"properties":{"MSOA11CD":"E02001993","MSOA11NM":"Tile Hill","_sum":"9761","Jobs":9761}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-175136.541081777,6879067.57541453]},"properties":{"MSOA11CD":"E02001979","MSOA11NM":"Bablake","_sum":"2630","Jobs":2630}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-168765.148356142,6869155.72066631]},"properties":{"MSOA11CD":"E02001994","MSOA11NM":"Cheyelsmore","_sum":"12448","Jobs":12448}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-161524.050678976,6871797.71883868]},"properties":{"MSOA11CD":"E02001992","MSOA11NM":"Willenhall (Coventry)","_sum":"15573","Jobs":15573}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-168281.84014395,6874155.99854784]},"properties":{"MSOA11CD":"E02001978","MSOA11NM":"Coventry","_sum":"36476","Jobs":36476}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-160762.83705257,6877154.90095849]},"properties":{"MSOA11CD":"E02001975","MSOA11NM":"Walsgrave","_sum":"15080","Jobs":15080}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-166188.881954269,6881434.36837347]},"properties":{"MSOA11CD":"E02001958","MSOA11NM":"Foleshill","_sum":"6794","Jobs":6794}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-168570.36659121,6879673.50977674]},"properties":{"MSOA11CD":"E02001959","MSOA11NM":"Holbrooks","_sum":"5329","Jobs":5329}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-140108.119997335,6867297.62137239]},"properties":{"MSOA11CD":"E02006492","MSOA11NM":"Rugby","_sum":"29046","Jobs":29046}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-171116.741170984,6851898.27494074]},"properties":{"MSOA11CD":"E02006527","MSOA11NM":"Leamington","_sum":"21578","Jobs":21578}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-175064.2291975,6862123.46418852]},"properties":{"MSOA11CD":"E02006522","MSOA11NM":"Kenilworth","_sum":"5556","Jobs":5556}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-154783.005144477,6845732.52790503]},"properties":{"MSOA11CD":"E02006507","MSOA11NM":"Southam","_sum":"4102","Jobs":4102}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-190797.389437737,6835840.80351037]},"properties":{"MSOA11CD":"E02006512","MSOA11NM":"Stratford-on-Avon","_sum":"25213","Jobs":25213}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211428.691459084,6848936.89494468]},"properties":{"MSOA11CD":"E02006504","MSOA11NM":"Studley","_sum":"3747","Jobs":3747}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-214323.933345972,6854366.459587]},"properties":{"MSOA11CD":"E02006721","MSOA11NM":"Redditch","_sum":"26188","Jobs":26188}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-181227.385105946,6811663.37343479]},"properties":{"MSOA11CD":"E02006516","MSOA11NM":"Shipstone","_sum":"15484","Jobs":15484}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-216145.291558612,6815999.16086944]},"properties":{"MSOA11CD":"E02006765","MSOA11NM":"Evesham","_sum":"12394","Jobs":12394}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-231687.046190206,6820354.9629265]},"properties":{"MSOA11CD":"E02006766","MSOA11NM":"Pershore","_sum":"7095","Jobs":7095}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-257179.308783196,6821639.4967253]},"properties":{"MSOA11CD":"E02006714","MSOA11NM":"Great Malvern","_sum":"15460","Jobs":15460}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-301918.819055394,6810991.09191045]},"properties":{"MSOA11CD":"E02002911","MSOA11NM":"Hereford","_sum":"29484","Jobs":29484}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-246285.947033029,6834496.44569403]},"properties":{"MSOA11CD":"E02006711","MSOA11NM":"Worcester","_sum":"42909","Jobs":42909}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-257590.550199267,6868523.26576256]},"properties":{"MSOA11CD":"E02006771","MSOA11NM":"Bewdley","_sum":"2939","Jobs":2939}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-250978.145904878,6870012.08946735]},"properties":{"MSOA11CD":"E02006768","MSOA11NM":"Kidderminster","_sum":"15928","Jobs":15928}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-229294.011156178,6860609.69831273]},"properties":{"MSOA11CD":"E02006701","MSOA11NM":"Bromsgrove","_sum":"17045","Jobs":17045}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-337038.530189988,6836995.74630554]},"properties":{"MSOA11CD":"E02002910","MSOA11NM":"Golden Valley","_sum":"2904","Jobs":2904}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-269454.327498891,6897269.98119248]},"properties":{"MSOA11CD":"E02006011","MSOA11NM":"Bridgnorth","_sum":"8299","Jobs":8299}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-312110.434795245,6897839.68771265]},"properties":{"MSOA11CD":"E02006040","MSOA11NM":"Church Stretton","_sum":"3281","Jobs":3281}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-301777.597372717,6867729.76136857]},"properties":{"MSOA11CD":"E02006044","MSOA11NM":"Ludlow","_sum":"12159","Jobs":12159}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-264189.668104593,6940436.93905331]},"properties":{"MSOA11CD":"E02002930","MSOA11NM":"Newport","_sum":"3362","Jobs":3362}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-274676.092548139,6924941.65866503]},"properties":{"MSOA11CD":"E02002933","MSOA11NM":"Telford","_sum":"56763","Jobs":56763}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-298560.685983783,6977414.41974842]},"properties":{"MSOA11CD":"E02006015","MSOA11NM":"Whitchurch","_sum":"3994","Jobs":3994}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-339498.6327952,6956993.60603164]},"properties":{"MSOA11CD":"E02006017","MSOA11NM":"Oswestry","_sum":"20114","Jobs":20114}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-277092.353468736,6965321.85684625]},"properties":{"MSOA11CD":"E02006018","MSOA11NM":"Market Drayton","_sum":"6464","Jobs":6464}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-306160.119249336,6929212.86852738]},"properties":{"MSOA11CD":"E02006028","MSOA11NM":"Shrewsbury","_sum":"73958","Jobs":73958}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-303002.858819689,6956578.46954476]},"properties":{"MSOA11CD":"E02006019","MSOA11NM":"Wem","_sum":"3931","Jobs":3931}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-208267.09639404,6965412.11363542]},"properties":{"MSOA11CD":"E02006132","MSOA11NM":"Uttoxeter","_sum":"4677","Jobs":4677}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-183047.272783281,6947353.75957863]},"properties":{"MSOA11CD":"E02006135","MSOA11NM":"Burton","_sum":"88902","Jobs":88902}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-239543.242515929,6965419.82735424]},"properties":{"MSOA11CD":"E02006191","MSOA11NM":"Stone","_sum":"7726","Jobs":7726}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-235453.717405697,6946250.96253093]},"properties":{"MSOA11CD":"E02006192","MSOA11NM":"Stafford","_sum":"35967","Jobs":35967}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-215471.521832257,6939086.92857464]},"properties":{"MSOA11CD":"E02006118","MSOA11NM":"Rugeley","_sum":"6201","Jobs":6201}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-204868.54814764,6916293.69308912]},"properties":{"MSOA11CD":"E02006156","MSOA11NM":"Shenstone","_sum":"6077","Jobs":6077}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-171577.916532616,6905225.52252945]},"properties":{"MSOA11CD":"E02006468","MSOA11NM":"Atherstone","_sum":"11574","Jobs":11574}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-244174.194883102,6914354.7708247]},"properties":{"MSOA11CD":"E02006181","MSOA11NM":"Codsall","_sum":"4064","Jobs":4064}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-245502.027419785,6908493.14043672]},"properties":{"MSOA11CD":"E02006183","MSOA11NM":"Perton","_sum":"1095","Jobs":1095}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-247778.449107527,6895200.39186133]},"properties":{"MSOA11CD":"E02006185","MSOA11NM":"Wombourne","_sum":"3733","Jobs":3733}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-223642.623100315,6927725.21353069]},"properties":{"MSOA11CD":"E02006121","MSOA11NM":"Cannock","_sum":"22740","Jobs":22740}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-225076.959651076,6920876.14594131]},"properties":{"MSOA11CD":"E02006180","MSOA11NM":"Great Wyrley","_sum":"2888","Jobs":2888}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-241202.05974124,6909377.52126559]},"properties":{"MSOA11CD":"E02002162","MSOA11NM":"Ettingshall","_sum":"2660","Jobs":2660}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-236965.909774159,6906554.1625326]},"properties":{"MSOA11CD":"E02002161","MSOA11NM":"Wolverhampton","_sum":"26453","Jobs":26453}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-233207.245996442,6910315.41199522]},"properties":{"MSOA11CD":"E02002159","MSOA11NM":"Heath Town","_sum":"12520","Jobs":12520}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-228301.116698772,6911102.3846393]},"properties":{"MSOA11CD":"E02002153","MSOA11NM":"Wednesfield","_sum":"1544","Jobs":1544}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-227163.924215728,6907608.15117124]},"properties":{"MSOA11CD":"E02002134","MSOA11NM":"Willenhall (Black Country)","_sum":"15769","Jobs":15769}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-225513.134936095,6904467.05836246]},"properties":{"MSOA11CD":"E02002142","MSOA11NM":"Darlaston","_sum":"6621","Jobs":6621}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-231050.340033959,6903156.28092612]},"properties":{"MSOA11CD":"E02002181","MSOA11NM":"Bilston","_sum":"12274","Jobs":12274}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-219156.205703113,6902062.67815309]},"properties":{"MSOA11CD":"E02002144","MSOA11NM":"Friar Park","_sum":"2123","Jobs":2123}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-239705.087268866,6902110.24566739]},"properties":{"MSOA11CD":"E02002178","MSOA11NM":"Penn","_sum":"2641","Jobs":2641}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-233215.538041172,6899560.55824223]},"properties":{"MSOA11CD":"E02002000","MSOA11NM":"Coseley","_sum":"4626","Jobs":4626}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-236018.479433717,6898292.46986398]},"properties":{"MSOA11CD":"E02002001","MSOA11NM":"Sedgeley","_sum":"1823","Jobs":1823}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-231759.931476412,6892975.75473602]},"properties":{"MSOA11CD":"E02002005","MSOA11NM":"Dudley","_sum":"23053","Jobs":23053}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-239073.183006549,6882910.08748071]},"properties":{"MSOA11CD":"E02002034","MSOA11NM":"Stourbridge","_sum":"9376","Jobs":9376}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-241413.230821018,6890588.45036066]},"properties":{"MSOA11CD":"E02002011","MSOA11NM":"Kingswinford","_sum":"10782","Jobs":10782}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-236130.484510625,6887697.2984557]},"properties":{"MSOA11CD":"E02002016","MSOA11NM":"Brierley Hill","_sum":"20602","Jobs":20602}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-224834.474486361,6900580.69017809]},"properties":{"MSOA11CD":"E02002043","MSOA11NM":"Wednesbury","_sum":"11899","Jobs":11899}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-222014.496962704,6894499.20497164]},"properties":{"MSOA11CD":"E02002060","MSOA11NM":"West Bromwich","_sum":"26126","Jobs":26126}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-225740.961801979,6891826.3058329]},"properties":{"MSOA11CD":"E02002063","MSOA11NM":"Oldbury","_sum":"13154","Jobs":13154}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-228433.623655139,6881680.11158219]},"properties":{"MSOA11CD":"E02002025","MSOA11NM":"Halesowen","_sum":"12261","Jobs":12261}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-221063.987819487,6887806.54610419]},"properties":{"MSOA11CD":"E02002068","MSOA11NM":"Smethwick","_sum":"10706","Jobs":10706}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-227723.165717491,6888796.26168282]},"properties":{"MSOA11CD":"E02002067","MSOA11NM":"Rowley Regis","_sum":"4467","Jobs":4467}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-231000.341387963,6884850.70596305]},"properties":{"MSOA11CD":"E02002080","MSOA11NM":"Cradley Heath","_sum":"6128","Jobs":6128}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-229618.926132448,6896377.64487051]},"properties":{"MSOA11CD":"E02002049","MSOA11NM":"Tipton","_sum":"8893","Jobs":8893}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-205136.251585537,6895779.13366581]},"properties":{"MSOA11CD":"E02001856","MSOA11NM":"Erdington","_sum":"17552","Jobs":17552}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-305293.182104281,6841216.71974084]},"properties":{"MSOA11CD":"E02002909","MSOA11NM":"Leominster","_sum":"8323","Jobs":8323}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-194545.524068558,6933529.90218229]},"properties":{"MSOA11CD":"E02006147","MSOA11NM":"Alrewas","_sum":"12703","Jobs":12703}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-189925.38975302,6890798.36340532]},"properties":{"MSOA11CD":"E02006473","MSOA11NM":"Coleshill","_sum":"9869","Jobs":9869}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-236771.466315423,6914482.84022662]},"properties":{"MSOA11CD":"E02002151","MSOA11NM":"Bushbury","_sum":"7220","Jobs":7220}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-239972.171431203,6848672.70009691]},"properties":{"MSOA11CD":"E02006754","MSOA11NM":"Droitwich","_sum":"13089","Jobs":13089}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-220430.561173014,6838574.48318453]},"properties":{"MSOA11CD":"E02006509","MSOA11NM":"Bidford","_sum":"3636","Jobs":3636}}
+]}

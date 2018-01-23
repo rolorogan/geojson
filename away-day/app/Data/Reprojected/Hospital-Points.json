@@ -1,0 +1,20 @@
+{"name":"Hospital Points","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-216046.067246929,6881521.37504946]},"properties":{"name":"The Oleaster National Centre for Mental Health"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-201770.038604426,6903373.71860039]},"properties":{"name":"Good Hope Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-216097.712281462,6882277.71152279]},"properties":{"name":"Queen Elizabeth Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-214960.27569693,6889110.11718856]},"properties":{"name":"City Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-210907.982143301,6888297.50954265]},"properties":{"name":"Birmingham Children's Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-197562.706065815,6875929.46329635]},"properties":{"name":"Solihull Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-203566.057338283,6887054.6516481]},"properties":{"name":"Birmingham Heartlands Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-210778.423500581,6881199.29356637]},"properties":{"name":"Moseley Hall Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-218282.668511623,6876503.16797945]},"properties":{"name":"Royal Orthopaedic Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-235889.118921559,6891465.3369831]},"properties":{"name":"Russells Hall Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-216225.631586021,6881702.92372491]},"properties":{"name":"The Barberry National Centre for Mental Health"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-221348.258867875,6896067.31886644]},"properties":{"name":"Sandwell General Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-159928.248183647,6876740.95725046]},"properties":{"name":"University Hospital Coventry"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-233265.394838396,6909311.79229043]},"properties":{"name":"New Cross Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-222491.972513553,6906224.56504154]},"properties":{"name":"Manor Hospital"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-216287.312334343,6882502.05557638]},"properties":{"name":"Birmingham Women's Hospital"}}
+]}

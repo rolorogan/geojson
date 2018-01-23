@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Rail Future Stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Darlaston", "Corridor": "B", "Reference": "CB700" }, "geometry": { "type": "Point", "coordinates": [ -2.018313883408655, 52.574296370503177 ] } },
+{ "type": "Feature", "properties": { "Name": "Willenhall", "Corridor": "B", "Reference": "CB700" }, "geometry": { "type": "Point", "coordinates": [ -2.054483725556356, 52.58200720395002 ] } },
+{ "type": "Feature", "properties": { "Name": "Moseley", "Corridor": "L", "Reference": "CL850" }, "geometry": { "type": "Point", "coordinates": [ -1.885424076557444, 52.446508518315206 ] } },
+{ "type": "Feature", "properties": { "Name": "Hazelwell", "Corridor": "L", "Reference": "CL850" }, "geometry": { "type": "Point", "coordinates": [ -1.910153282591456, 52.426177490985609 ] } },
+{ "type": "Feature", "properties": { "Name": "Kings Heath", "Corridor": "L", "Reference": "CL850" }, "geometry": { "type": "Point", "coordinates": [ -1.893226793075383, 52.439152475160462 ] } },
+{ "type": "Feature", "properties": { "Name": "Canal Street", "Corridor": null, "Reference": null }, "geometry": { "type": "Point", "coordinates": [ -2.111628616735549, 52.491089827214779 ] } },
+{ "type": "Feature", "properties": { "Name": "Castle Bromwich", "Corridor": "J", "Reference": "CJ900" }, "geometry": { "type": "Point", "coordinates": [ -1.798170007765141, 52.510991974995896 ] } },
+{ "type": "Feature", "properties": { "Name": "Fort Parkway", "Corridor": "J", "Reference": "CJ900" }, "geometry": { "type": "Point", "coordinates": [ -1.824749184020368, 52.506253885258502 ] } },
+{ "type": "Feature", "properties": { "Name": "Brierley Hill", "Corridor": null, "Reference": null }, "geometry": { "type": "Point", "coordinates": [ -2.128564139670271, 52.481669565562797 ] } },
+{ "type": "Feature", "properties": { "Name": "Aldridge", "Corridor": null, "Reference": null }, "geometry": { "type": "Point", "coordinates": [ -1.925764227616518, 52.602172361323774 ] } }
+]
+}
