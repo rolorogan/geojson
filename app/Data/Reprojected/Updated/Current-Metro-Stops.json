@@ -1,0 +1,30 @@
+{"name":"Current Metro Stops","type":"FeatureCollection"
+,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-211094.27902736,6887738.35142119]},"properties":{"Mode":"Metro","Stop":"Bull Street"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211839.475071823,6888534.36434908]},"properties":{"Mode":"Metro","Stop":"St Pauls"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-218787.376094471,6892118.31916774]},"properties":{"Mode":"Metro","Stop":"The Hawthorns"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-233387.488800982,6904021.9389051]},"properties":{"Mode":"Metro","Stop":"Priestfield"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-225891.066505042,6900039.55719781]},"properties":{"Mode":"Metro","Stop":"Wednesbury Parkway"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-223822.754927553,6896506.89416647]},"properties":{"Mode":"Metro","Stop":"Black Lake"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-236393.850066138,6906416.30993635]},"properties":{"Mode":"Metro","Stop":"St Georges"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-235593.539979706,6905849.88030894]},"properties":{"Mode":"Metro","Stop":"The Royal"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-231470.844666421,6903403.38711457]},"properties":{"Mode":"Metro","Stop":"The Crescent"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-230841.444264941,6902996.81821893]},"properties":{"Mode":"Metro","Stop":"Bilston"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-229778.978598969,6901916.80490355]},"properties":{"Mode":"Metro","Stop":"Loxdale"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-228851.942324115,6901167.87898546]},"properties":{"Mode":"Metro","Stop":"Bradley Lane"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-225270.945445403,6899864.70164016]},"properties":{"Mode":"Metro","Stop":"Wednesbury Gt Western"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-223577.665346324,6895630.74746317]},"properties":{"Mode":"Metro","Stop":"Guns Village"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-223010.457614097,6894677.30165594]},"properties":{"Mode":"Metro","Stop":"Dartmouth Street"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-222450.848960701,6894382.76160918]},"properties":{"Mode":"Metro","Stop":"Lodge Road"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-221933.22379949,6893945.40473356]},"properties":{"Mode":"Metro","Stop":"West Bromich Central"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-221191.205100052,6893072.20677474]},"properties":{"Mode":"Metro","Stop":"Trinity Way"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-220344.57195309,6892483.15636049]},"properties":{"Mode":"Metro","Stop":"Kenrick Park"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-217150.482721454,6891351.49714035]},"properties":{"Mode":"Metro","Stop":"Booth Street"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-215667.818422143,6890763.59381595]},"properties":{"Mode":"Metro","Stop":"Winson Green"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-214810.992300675,6890430.43720633]},"properties":{"Mode":"Metro","Stop":"Benson Road"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-213043.116244325,6889176.32351422]},"properties":{"Mode":"Metro","Stop":"Jewellery Quarter"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211546.942525038,6888239.81972097]},"properties":{"Mode":"Metro","Stop":"St Chads"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211397.148704096,6887134.4537849]},"properties":{"Mode":"Metro","Stop":"Grand Central"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-211175.023076657,6887377.10944528]},"properties":{"Mode":"Metro","Stop":"Corporation Street"}}
+]}
