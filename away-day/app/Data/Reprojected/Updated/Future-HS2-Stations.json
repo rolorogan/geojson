@@ -1,6 +1,0 @@
-{"name":"Future HS2 Stations","type":"FeatureCollection"
-,"crs":{"type":"name","properties":{"name":"EPSG:3857"}}
-,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-210536.807427806,6887312.1979272]},"properties":{"Location":"HS2 Terminus"}}
-,{"type":"Feature","geometry":{"type":"Point","coordinates":[-189373.889758629,6882469.4466978]},"properties":{"Location":"HS2 Interchange"}}
-]}
