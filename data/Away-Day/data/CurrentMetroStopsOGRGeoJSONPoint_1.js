@@ -1,0 +1,32 @@
+var json_CurrentMetroStopsOGRGeoJSONPoint_1 = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Bull Street" }, "geometry": { "type": "Point", "coordinates": [ -1.896292172404684, 52.481931475773379 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "St Pauls" }, "geometry": { "type": "Point", "coordinates": [ -1.902986382368749, 52.486286122917427 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "The Hawthorns" }, "geometry": { "type": "Point", "coordinates": [ -1.965400439180693, 52.505887071455817 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Priestfield" }, "geometry": { "type": "Point", "coordinates": [ -2.096555483121958, 52.570926273397902 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Wednesbury Parkway" }, "geometry": { "type": "Point", "coordinates": [ -2.029213975875385, 52.549177992495586 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Black Lake" }, "geometry": { "type": "Point", "coordinates": [ -2.010634016851588, 52.529876656082628 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "St Georges" }, "geometry": { "type": "Point", "coordinates": [ -2.123562085862703, 52.583997041274067 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "The Royal" }, "geometry": { "type": "Point", "coordinates": [ -2.116372778035934, 52.580905278331642 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "The Crescent" }, "geometry": { "type": "Point", "coordinates": [ -2.079337975919016, 52.567548992529844 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Bilston" }, "geometry": { "type": "Point", "coordinates": [ -2.073683975914211, 52.56532899252575 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Loxdale" }, "geometry": { "type": "Point", "coordinates": [ -2.064139684448262, 52.559431218579441 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Bradley Lane" }, "geometry": { "type": "Point", "coordinates": [ -2.055811975901917, 52.555340992507617 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Wednesbury Gt Western" }, "geometry": { "type": "Point", "coordinates": [ -2.023643333616604, 52.548222837486747 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Guns Village" }, "geometry": { "type": "Point", "coordinates": [ -2.008432339683623, 52.525088358504341 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Dartmouth Street" }, "geometry": { "type": "Point", "coordinates": [ -2.00333702593232, 52.519877014419279 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Lodge Road" }, "geometry": { "type": "Point", "coordinates": [ -1.998309975867609, 52.518266992440829 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "West Bromich Central" }, "geometry": { "type": "Point", "coordinates": [ -1.993660069930002, 52.51587619278277 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Trinity Way" }, "geometry": { "type": "Point", "coordinates": [ -1.986994402541925, 52.511102490347945 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Kenrick Park" }, "geometry": { "type": "Point", "coordinates": [ -1.979388967582344, 52.507881906580913 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Booth Street" }, "geometry": { "type": "Point", "coordinates": [ -1.950695975826142, 52.501693992410111 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Winson Green" }, "geometry": { "type": "Point", "coordinates": [ -1.937376975813248, 52.498478992403975 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Benson Road" }, "geometry": { "type": "Point", "coordinates": [ -1.929679975805772, 52.496656992400439 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Jewellery Quarter" }, "geometry": { "type": "Point", "coordinates": [ -1.91379887498729, 52.489797693643133 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "St Chads" }, "geometry": { "type": "Point", "coordinates": [ -1.900358517789956, 52.484674845154913 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Grand Central" }, "geometry": { "type": "Point", "coordinates": [ -1.899012897001767, 52.478627521854953 ] } },
+{ "type": "Feature", "properties": { "Mode": "Metro", "Stop": "Corporation Street" }, "geometry": { "type": "Point", "coordinates": [ -1.897017508540536, 52.479955132826035 ] } }
+]
+}
