@@ -1,0 +1,1156 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-05-14T08:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5045354",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Montague Road",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9590511,
+            52.4832145
+          ],
+          [
+            -1.9589719,
+            52.4832361
+          ],
+          [
+            -1.9589111,
+            52.4832398
+          ],
+          [
+            -1.9586472,
+            52.483199
+          ],
+          [
+            -1.9581691,
+            52.4831189
+          ],
+          [
+            -1.9579275,
+            52.4830796
+          ],
+          [
+            -1.957405,
+            52.4829938
+          ],
+          [
+            -1.9570987,
+            52.4829444
+          ],
+          [
+            -1.9565508,
+            52.4828494
+          ],
+          [
+            -1.9563906,
+            52.4828451
+          ],
+          [
+            -1.9562385,
+            52.4828406
+          ],
+          [
+            -1.9561111,
+            52.4828382
+          ],
+          [
+            -1.9557596,
+            52.4828585
+          ],
+          [
+            -1.95537,
+            52.4829154
+          ],
+          [
+            -1.9551602,
+            52.4829776
+          ],
+          [
+            -1.9549471,
+            52.4830448
+          ],
+          [
+            -1.9548732,
+            52.4830782
+          ],
+          [
+            -1.9548236,
+            52.48311
+          ],
+          [
+            -1.9547773,
+            52.4831873
+          ],
+          [
+            -1.9547698,
+            52.4836127
+          ],
+          [
+            -1.9547796,
+            52.4837634
+          ],
+          [
+            -1.9547804,
+            52.4838681
+          ],
+          [
+            -1.9547911,
+            52.4844683
+          ],
+          [
+            -1.9547875,
+            52.4848517
+          ],
+          [
+            -1.9547754,
+            52.485769
+          ],
+          [
+            -1.9547778,
+            52.4863186
+          ],
+          [
+            -1.9547746,
+            52.4865128
+          ],
+          [
+            -1.954774,
+            52.4867121
+          ],
+          [
+            -1.9547732,
+            52.4869683
+          ]
+        ]
+      },
+      "id": "way/5045354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23999122",
+        "access": "yes",
+        "bicycle": "yes",
+        "cycleway": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Pool Lane",
+        "oneway": "no",
+        "source": "GPS Survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9413351,
+            52.6630019
+          ],
+          [
+            -1.9412967,
+            52.6630667
+          ],
+          [
+            -1.9412771,
+            52.6631711
+          ],
+          [
+            -1.941297,
+            52.6633929
+          ],
+          [
+            -1.941315,
+            52.6638218
+          ],
+          [
+            -1.9413348,
+            52.6642137
+          ],
+          [
+            -1.9413581,
+            52.6644551
+          ],
+          [
+            -1.9413724,
+            52.6646531
+          ],
+          [
+            -1.9414137,
+            52.6650252
+          ],
+          [
+            -1.9414769,
+            52.6654874
+          ],
+          [
+            -1.9415076,
+            52.6656822
+          ],
+          [
+            -1.9415342,
+            52.6658761
+          ],
+          [
+            -1.9415431,
+            52.6660738
+          ],
+          [
+            -1.9415387,
+            52.6662678
+          ],
+          [
+            -1.9415266,
+            52.6663916
+          ],
+          [
+            -1.9414974,
+            52.6665093
+          ],
+          [
+            -1.94138,
+            52.6666816
+          ],
+          [
+            -1.9412729,
+            52.6668116
+          ],
+          [
+            -1.9411384,
+            52.6669332
+          ],
+          [
+            -1.9410163,
+            52.6670781
+          ],
+          [
+            -1.9409356,
+            52.6671717
+          ]
+        ]
+      },
+      "id": "way/23999122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56832800",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Chandley Wharf",
+        "oneway": "no",
+        "postal_code": "CV34",
+        "source": "OS_OpenData_StreetView",
+        "source:name": "OS_Locator"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.5959172,
+            52.2918204
+          ],
+          [
+            -1.5961833,
+            52.2917137
+          ],
+          [
+            -1.5970043,
+            52.2913846
+          ],
+          [
+            -1.5970675,
+            52.2913441
+          ],
+          [
+            -1.597146,
+            52.2912924
+          ],
+          [
+            -1.5975357,
+            52.2909621
+          ]
+        ]
+      },
+      "id": "way/56832800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114477176",
+        "access": "yes",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "foot": "yes",
+        "highway": "residential",
+        "maxspeed": "20",
+        "motor_vehicle": "yes",
+        "name": "Swan Road",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7616156,
+            52.6772811
+          ],
+          [
+            -1.7617481,
+            52.6772084
+          ],
+          [
+            -1.761886,
+            52.6771759
+          ],
+          [
+            -1.7621373,
+            52.6771669
+          ],
+          [
+            -1.7627435,
+            52.6771622
+          ],
+          [
+            -1.7629017,
+            52.677161
+          ]
+        ]
+      },
+      "id": "way/114477176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119520873",
+        "access": "private",
+        "highway": "unclassified",
+        "maxspeed": "20",
+        "motor_vehicle": "yes",
+        "name": "Galton Way"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1339145,
+            52.2663581
+          ],
+          [
+            -2.1338775,
+            52.2663236
+          ],
+          [
+            -2.1338371,
+            52.2662264
+          ],
+          [
+            -2.1336955,
+            52.2654013
+          ],
+          [
+            -2.133506,
+            52.2648915
+          ],
+          [
+            -2.1333632,
+            52.2646466
+          ],
+          [
+            -2.1332041,
+            52.2644303
+          ],
+          [
+            -2.1330076,
+            52.2642227
+          ],
+          [
+            -2.1328835,
+            52.2641382
+          ],
+          [
+            -2.1326631,
+            52.2640439
+          ],
+          [
+            -2.1324389,
+            52.2639993
+          ],
+          [
+            -2.1319709,
+            52.2639348
+          ],
+          [
+            -2.1312362,
+            52.2638374
+          ],
+          [
+            -2.1303142,
+            52.26372
+          ],
+          [
+            -2.1297128,
+            52.263647
+          ],
+          [
+            -2.1294671,
+            52.2636054
+          ],
+          [
+            -2.1292659,
+            52.263561
+          ],
+          [
+            -2.128978,
+            52.2634579
+          ],
+          [
+            -2.1280935,
+            52.2631099
+          ],
+          [
+            -2.127122,
+            52.2627392
+          ]
+        ]
+      },
+      "id": "way/119520873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144887718",
+        "highway": "living_street",
+        "maxspeed": "20",
+        "name": "Oakhurst Court",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8486675,
+            52.6408342
+          ],
+          [
+            -1.8486689,
+            52.6407919
+          ]
+        ]
+      },
+      "id": "way/144887718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167625080",
+        "access": "no",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "service",
+        "maxspeed": "20",
+        "motor_vehicle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0229021,
+            52.4980267
+          ],
+          [
+            -2.0228819,
+            52.4983198
+          ],
+          [
+            -2.0228484,
+            52.4985264
+          ],
+          [
+            -2.0228454,
+            52.4986072
+          ]
+        ]
+      },
+      "id": "way/167625080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167625097",
+        "access": "no",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "service",
+        "maxspeed": "20",
+        "motor_vehicle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0229141,
+            52.4977075
+          ],
+          [
+            -2.0229223,
+            52.4976375
+          ]
+        ]
+      },
+      "id": "way/167625097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167625101",
+        "access": "no",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "service",
+        "maxspeed": "20",
+        "motor_vehicle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0225789,
+            52.4985982
+          ],
+          [
+            -2.0228454,
+            52.4986072
+          ],
+          [
+            -2.0228457,
+            52.4986072
+          ],
+          [
+            -2.0228256,
+            52.4988627
+          ],
+          [
+            -2.0228162,
+            52.4990513
+          ],
+          [
+            -2.0228055,
+            52.4992162
+          ],
+          [
+            -2.0227908,
+            52.4994489
+          ],
+          [
+            -2.02278,
+            52.4995069
+          ],
+          [
+            -2.0227653,
+            52.4995314
+          ],
+          [
+            -2.022721,
+            52.499551
+          ],
+          [
+            -2.022666,
+            52.4995591
+          ],
+          [
+            -2.0220236,
+            52.4995387
+          ],
+          [
+            -2.0217112,
+            52.499524
+          ],
+          [
+            -2.021679,
+            52.4995191
+          ],
+          [
+            -2.0216441,
+            52.4995012
+          ],
+          [
+            -2.0216267,
+            52.4994783
+          ],
+          [
+            -2.0216253,
+            52.4994351
+          ],
+          [
+            -2.0216575,
+            52.4990619
+          ],
+          [
+            -2.0216843,
+            52.4986521
+          ],
+          [
+            -2.0217246,
+            52.4982937
+          ],
+          [
+            -2.0217527,
+            52.4979271
+          ],
+          [
+            -2.0217648,
+            52.4977336
+          ],
+          [
+            -2.0217715,
+            52.4977115
+          ],
+          [
+            -2.0217957,
+            52.4976952
+          ],
+          [
+            -2.0218225,
+            52.4976838
+          ],
+          [
+            -2.0218748,
+            52.4976756
+          ],
+          [
+            -2.0229141,
+            52.4977075
+          ],
+          [
+            -2.0229021,
+            52.4980267
+          ],
+          [
+            -2.0231555,
+            52.4980463
+          ],
+          [
+            -2.0236745,
+            52.4980675
+          ],
+          [
+            -2.0242928,
+            52.4980887
+          ],
+          [
+            -2.0243531,
+            52.4980953
+          ],
+          [
+            -2.0244054,
+            52.4981067
+          ],
+          [
+            -2.0244631,
+            52.4981288
+          ],
+          [
+            -2.0245047,
+            52.4981516
+          ],
+          [
+            -2.0245422,
+            52.4981786
+          ],
+          [
+            -2.0245744,
+            52.4982096
+          ],
+          [
+            -2.0245851,
+            52.4982382
+          ],
+          [
+            -2.0245905,
+            52.4982602
+          ],
+          [
+            -2.0245717,
+            52.4985647
+          ],
+          [
+            -2.0245409,
+            52.4989256
+          ],
+          [
+            -2.0245275,
+            52.4990913
+          ],
+          [
+            -2.0245141,
+            52.499133
+          ],
+          [
+            -2.0244886,
+            52.4991591
+          ],
+          [
+            -2.024447,
+            52.4991958
+          ],
+          [
+            -2.0244081,
+            52.4992154
+          ],
+          [
+            -2.0243652,
+            52.4992326
+          ],
+          [
+            -2.0242847,
+            52.4992489
+          ],
+          [
+            -2.0242244,
+            52.4992571
+          ],
+          [
+            -2.0241667,
+            52.4992571
+          ],
+          [
+            -2.0240273,
+            52.4992579
+          ],
+          [
+            -2.0229827,
+            52.4992195
+          ],
+          [
+            -2.0228055,
+            52.4992162
+          ]
+        ]
+      },
+      "id": "way/167625101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183181749",
+        "access": "no",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "foot": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Pool Lane",
+        "old_name": "Pool Road",
+        "oneway": "no",
+        "service": "emergency_access"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9409356,
+            52.6671717
+          ],
+          [
+            -1.9396047,
+            52.6667823
+          ],
+          [
+            -1.9396981,
+            52.6664479
+          ]
+        ]
+      },
+      "id": "way/183181749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187486577",
+        "access": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "maxspeed": "20",
+        "motor_vehicle": "yes",
+        "name": "Godfrey Drive",
+        "oneway": "no",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.815876,
+            52.6886927
+          ],
+          [
+            -1.8161925,
+            52.6889807
+          ],
+          [
+            -1.8165292,
+            52.6893216
+          ]
+        ]
+      },
+      "id": "way/187486577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235487385",
+        "foot": "yes",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "The Fairways",
+        "oneway": "no",
+        "source": "Lichfield District Council Street Naming Officer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.857536,
+            52.6031141
+          ],
+          [
+            -1.8574985,
+            52.6027134
+          ],
+          [
+            -1.8571128,
+            52.6027103
+          ]
+        ]
+      },
+      "id": "way/235487385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295313529",
+        "highway": "living_street",
+        "maxspeed": "20",
+        "name": "Oakhurst Court",
+        "surface": "asphalt",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8486689,
+            52.6407919
+          ],
+          [
+            -1.8486721,
+            52.6407032
+          ]
+        ]
+      },
+      "id": "way/295313529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295313530",
+        "highway": "living_street",
+        "maxspeed": "20",
+        "name": "Oakhurst Court",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8486721,
+            52.6407032
+          ],
+          [
+            -1.8486773,
+            52.6405525
+          ],
+          [
+            -1.8486805,
+            52.6404627
+          ]
+        ]
+      },
+      "id": "way/295313530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295313531",
+        "highway": "living_street",
+        "maxspeed": "20",
+        "name": "Oakhurst Court",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8486805,
+            52.6404627
+          ],
+          [
+            -1.8485652,
+            52.640461
+          ],
+          [
+            -1.8485735,
+            52.6402029
+          ]
+        ]
+      },
+      "id": "way/295313531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/341207059",
+        "highway": "residential",
+        "maxspeed": "20",
+        "name": "Triangle View",
+        "oneway": "no",
+        "source": "Lichfield District Council - Street Naming and Numbering Unit",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9209981,
+            52.6676059
+          ],
+          [
+            -1.9209659,
+            52.6674709
+          ],
+          [
+            -1.9206892,
+            52.6671993
+          ]
+        ]
+      },
+      "id": "way/341207059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/341209475",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "20",
+        "name": "John Wilks Court",
+        "oneway": "no",
+        "source": "Lichfield District Council - GIS Team",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8246148,
+            52.6800236
+          ],
+          [
+            -1.8253283,
+            52.6796431
+          ],
+          [
+            -1.8249372,
+            52.6793789
+          ]
+        ]
+      },
+      "id": "way/341209475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374582998",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Pool Lane",
+        "source": "GPS Survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9408237,
+            52.6672945
+          ],
+          [
+            -1.9407438,
+            52.6673826
+          ]
+        ]
+      },
+      "id": "way/374582998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374582999",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Pool Lane",
+        "source": "GPS Survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.940891,
+            52.6672178
+          ],
+          [
+            -1.9408237,
+            52.6672945
+          ]
+        ]
+      },
+      "id": "way/374582999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374583000",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Pool Lane",
+        "source": "GPS Survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9409356,
+            52.6671717
+          ],
+          [
+            -1.940891,
+            52.6672178
+          ]
+        ]
+      },
+      "id": "way/374583000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395653174",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Leighfield Road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.5618707,
+            52.3764005
+          ],
+          [
+            -1.5619884,
+            52.3763523
+          ],
+          [
+            -1.5621224,
+            52.37631
+          ]
+        ]
+      },
+      "id": "way/395653174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/505765369",
+        "access": "yes",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "layer": "1",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Pool Lane",
+        "oneway": "no",
+        "source": "GPS Survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9413148,
+            52.6627696
+          ],
+          [
+            -1.9413351,
+            52.6630019
+          ]
+        ]
+      },
+      "id": "way/505765369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/505765370",
+        "access": "yes",
+        "bicycle": "yes",
+        "cycleway": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Pool Lane",
+        "oneway": "no",
+        "source": "GPS Survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9412594,
+            52.6619257
+          ],
+          [
+            -1.9413036,
+            52.6626419
+          ],
+          [
+            -1.9413148,
+            52.6627696
+          ]
+        ]
+      },
+      "id": "way/505765370"
+    }
+  ]
+}
