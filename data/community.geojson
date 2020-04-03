@@ -1,0 +1,102 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "Name": "Wolverhampton",
+                "Communities": 10
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.126795,
+                    52.590057
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Walsall",
+                "Communities": 11
+            },
+            "geometry": {
+                "coordinates": [
+                    -1.960765,
+                    52.59836
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sandwell",
+                "Communities": 12
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.009824,
+                    52.518157
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dudley",
+                "Communities": 13
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.12602,
+                    52.495387
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Birmingham",
+                "Communities": 14
+            },
+            "geometry": {
+                "coordinates": [
+                    -1.880813,
+                    52.490004
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Solihull",
+                "Communities": 15
+            },
+            "geometry": {
+                "coordinates": [
+                    -1.723397,
+                    52.414703
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Coventry",
+                "Communities": 16
+            },
+            "geometry": {
+                "coordinates": [
+                    -1.51049,
+                    52.41791
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
